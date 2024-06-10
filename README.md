@@ -10,13 +10,13 @@
 I am a professional industrial robotics engineer, programmer, and mentor; however, I love ruby and rails.
 
 <details>
- <summary>Things that I do well</summary>
+ <summary>My purpase in life is to be everyone's SME</summary>
  
-| Rank | THING-TO-RANK |
+| Rank | Skills that I use daily |
 |-----:|---------------|
-|     1|Robots         |
-|     2|Teaching       |
-|     3|Ruby on Rails  |
+|     1|Robot and Controls Programming        |
+|     2|Teaching and Mentoring       |
+|     3|Ruby on Rails and other languages |
 
 </details>
 
