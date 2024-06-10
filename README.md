@@ -9,11 +9,16 @@
 ## About me:
 I am a professional industrial robotics engineer, programmer, and mentor; however, I love ruby and rails.
 
+<details>
+ <summary>Things that I do well</summary>
+ 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|Robots         |
 |     2|Teaching       |
 |     3|Ruby on Rails  |
+
+</details>
 
 <!--
 **HortusHonu/HortusHonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
