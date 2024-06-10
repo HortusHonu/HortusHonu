@@ -20,6 +20,9 @@ I am a professional industrial robotics engineer, programmer, and mentor; howeve
 
 </details>
 
+---
+> "Action isn't just the effect of motivation; it's also the cause of it."
+
 <!--
 **HortusHonu/HortusHonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
