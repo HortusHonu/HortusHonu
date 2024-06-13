@@ -23,7 +23,7 @@ I am a RoR bootcamp graduate and a self taught web and application develper. Dur
 <br /><br />
 
 ---
-> "Action isn't just the effect of motivation; it's also the cause of it."
+> "Action isn't just the effect of motivation; it's also the cause of it." - The Subtle Art of Not Giving a #@%!
 <br />
 
 | Rank | Skills that I use daily | Things I am learning | 
