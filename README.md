@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Dark Mode Happy Two Moons.jpg">
  <source media="(prefers-color-scheme: light)" srcset="DALL·E 2024-06-09 22.16.10 - A colorful 8-bit cartoon scene of a turtle pond - round.webp">
- <img alt="8-bit image of a colorful 8-bit cartoon scene of a turtle pond" src="Dark Mode Happy Two Moons.jpg">
+ <img alt="8-bit image of a colorful 8-bit cartoon scene of a turtle pond" src="DALL·E 2024-06-09 22.16.10 - A colorful 8-bit cartoon scene of a turtle pond - round.webp">
 </picture>
 
 ## About me:
