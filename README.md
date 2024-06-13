@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ## Hello! My friends call me Turtle! 🐢
 
 <picture>
@@ -8,6 +10,8 @@
 
 ## About me:
 I am a professional industrial robotics engineer, programmer, and mentor; however, I love ruby and rails.
+
+<img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
 
 <details>
  <summary>My purpase in life is to be everyone's SME</summary>
