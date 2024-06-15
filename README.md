@@ -33,11 +33,17 @@ I am a RoR bootcamp graduate and a self taught web and application develper. Dur
 |     3|Rails, C#, KAREL | Rails, Python, and ROS |
 ---
 
-<details>
- <summary>How I got here: Small Town Robotics</summary>
+<div>
+    <img align="left" width="300px" alt="Turtle and Hux Coding" src="Turtle and Hux Coding.jpg">
+    <p>This is me and my dog, Huxley! We "rubber duck" with our robot friend when we get stuck :-)</p><br />
+</div>
 
-<p>This is the story of a boy named Turtle...</p>
+<details>
+  <summary>How I got here: Small Town Robotics</summary><br />
+          <p>My family moved to a small lake and farming community west of Detroit in the mid 90's, 2 days before 6th grade, during the industrial automation boom in the 90's. It meant nothing to my blue collar parents, a cook and hair stylist, but it changed the course of my life.<br /><br />
+          Signing up for course electives late and not by choice, I ended up filling one of last available seats in a newly minted youund adult robotics program and sent me down a path of mentorship and discorvey in the work of automation.</p>
 </details>
+
 
 <!--
 **HortusHonu/HortusHonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
