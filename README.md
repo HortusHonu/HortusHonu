@@ -34,7 +34,7 @@ I am a RoR bootcamp graduate and a self taught web and application develper. Dur
 ---
 
 <div>
-    <img align="left" width="300px" alt="Turtle and Hux Coding" src="Turtle and Hux Coding.jpg">
+    <img align="left" width="150px" alt="Turtle and Hux Coding" src="Turtle and Hux Coding.jpg">
     <p>This is me and my dog, Huxley! We "rubber duck" with our robot friend when we get stuck :-)</p><br />
 </div>
 
