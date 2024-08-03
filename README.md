@@ -9,7 +9,7 @@
 </picture>
 
 ## About me:
-I am a RoR bootcamp graduate and a self taught web and application develper. During the day, I am a professional industrial robotics engineer and mentor. I design and administer 1;1 robotics automation training and dabble in ROS, as well.
+I am a Firehose / Trilogy Education RoR bootcamp graduate and a self taught develper. During the day, I am an industrial robotics engineer, certified vision professional, and mentor. I design and administer 1;1 robotics and vision automation training and also dabble in ROS.
 
 
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
